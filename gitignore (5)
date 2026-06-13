@@ -1,0 +1,23 @@
+# Saved models
+*.pkl
+*.joblib
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
